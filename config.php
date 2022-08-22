@@ -1,9 +1,9 @@
 <?php 
 
-$server="localhost";
-$username="root";
-$password="";
-$db="sparks_bank";
+$server="remotemysql.com";
+$username="iShEom44Jh";
+$password="OmdHGwKOX5";
+$db="iShEom44Jh";
 
 $conn=mysqli_connect($server,$username,$password,$db);
 
